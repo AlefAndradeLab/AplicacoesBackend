@@ -10,8 +10,8 @@ public class Main {
         };
 
         for (int i = 0; i <= produtos.length; i++) {
-            if (i%2==0) {
-                System.out.println(i);
+            for (int j = 0; j <= preco.length; j++) {
+                
             }
         }
 
